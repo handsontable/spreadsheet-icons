@@ -2,7 +2,7 @@
 
 An official set of icons for
 [**Handsontable Pro**](https://github.com/handsontable/handsontable-pro)
-(a commercial license is required). I contains 169 beautiful, hand-crafted
+(a commercial license is required). It contains 169 beautiful, hand-crafted
 icons, perfectly suited for every spreadsheet-like UI. All
 icons are designed from scratch on 24px viewport.
 
@@ -50,6 +50,11 @@ You can also link to CDN.
 
 There is no web font available out of the box, but you can do one
 yourself in minutes with [Fontello](http://fontello.com/).
+
+## Documentation
+
+The complete documentation of this spreadshet icon set is available in
+the [Handsontable Pro documentation](https://handsontable.com/docs/spreadsheet-icons.html).
 
 ## License
 
