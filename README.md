@@ -6,7 +6,7 @@ An official set of icons for
 icons, perfectly suited for every spreadsheet-like UI. All
 icons are designed from scratch on 24px viewport.
 
-<img src="https://raw.githubusercontent.com/handsontable/spreadsheet-icons/master/icons-preview.png" alt="Spreadsheet icons preview">
+<img src="https://raw.githubusercontent.com/handsontable/spreadsheet-icons/master/icons-preview.png?token=AHrPjkKagNHQMgS_3C4k21CvmXjaqh7Lks5cF70-wA%3D%3D" alt="Spreadsheet icons preview">
 
 ## What's inside?
 
