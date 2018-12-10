@@ -30,10 +30,6 @@ or
 
     yarn add --dev @handsontable/spreadsheet-icons
 
-You can also link to CDN.
-
-    https://cdnjs.com/****
-
 #### Use SVG as an `<img>` element
 
 ```
