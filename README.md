@@ -22,7 +22,7 @@ This repository contains the following folders and files:
 
 ## How to use it?
 
-Install the complete set with npm or Yarn.
+Install the icons with a package manager.
 
     npm i --save-dev @handsontable/spreadsheet-icons
 
@@ -30,7 +30,7 @@ or
 
     yarn add --dev @handsontable/spreadsheet-icons
 
-or use CDN
+You can also link to CDN.
 
     https://cdnjs.com/****
 
@@ -46,7 +46,7 @@ or use CDN
 <!-- Paste here an SVG code -->
 ```
 
-#### Use as web font
+#### Use as a web font
 
 There is no web font available out of the box, but you can do one
 yourself in minutes with [Fontello](http://fontello.com/).
