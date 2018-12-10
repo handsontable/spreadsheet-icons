@@ -8,19 +8,19 @@ icons are designed from scratch on 24px viewport.
 
 <img src="https://raw.githubusercontent.com/handsontable/spreadsheet-icons/master/icons-preview.png" alt="Spreadsheet icons preview">
 
-### What's inside?
+## What's inside?
 
 This repository contains the following folders and files:
 
-| Path               	| Contents                                                                                                    	|
-|--------------------	|-------------------------------------------------------------------------------------------------------------	|
-| /svg/compressed    	| The optimized versions of all SVG files.The compression rate is ~40% so you may notice a bit lower quality. 	|
-| /svg/original      	| The original, uncompressed version of all SVG files.                                                        	|
-| /icons-preview.png 	| The illustration of some icons in the README.md file.                                                       	|
-| /LICENSE.txt       	| The terms and conditions of the license.                                                                    	|
-| /README.md         	| The description of this repository.                                                                         	|
+| Path               	| Contents                                                                      |
+|--------------------	|------------------------------------------------------------------------------	|
+| /svg/compressed    	| The optimized versions of all SVG files.The compression rate is ~40%.	|
+| /svg/original      	| The original, uncompressed version of all SVG files.                          |
+| /icons-preview.png 	| The illustration of some icons in the README.md file.                         |
+| /LICENSE.txt       	| The terms and conditions of the license.                                      |
+| /README.md         	| The description of this repository.                                           |
 
-### How to use it?
+## How to use it?
 
 Install the complete set with npm or Yarn.
 
@@ -51,7 +51,7 @@ or use CDN
 There is no web font available out of the box, but you can do one
 yourself in minutes with [Fontello](http://fontello.com/).
 
-### License
+## License
 
 This icon is a part of Handsontable Pro that is a commercial software distributed by Handsoncode sp. z o. o.
 By installing, copying, or otherwise using this icon, you agree to be bound by the terms
