@@ -53,8 +53,8 @@ yourself in minutes with [Fontello](http://fontello.com/).
 
 ## Documentation
 
-The complete documentation of this spreadshet icon set is available in
-the [Handsontable Pro documentation](https://handsontable.com/docs/spreadsheet-icons.html).
+The complete documentation of the icon set is available in
+the [Handsontable docs](https://handsontable.com/docs/spreadsheet-icons.html).
 
 ## License
 
