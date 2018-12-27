@@ -7,26 +7,11 @@
 - Recommended color on light background is black at 75% opacity - `rgba(0, 0, 0, 0.75)`. For disabled icon style reduce the opacity to 35%.
 - Recommended color on dark background is white at 80% opacity - `rgba(255, 255, 255, 0.8)`. For disabled icon style reduce the opacity to 30%.
 
-## What's inside?
+## Getting started
 
-This repository contains the following folders and files:
-
-| Path               	| Contents                                                                      |
-|--------------------	|------------------------------------------------------------------------------	|
-| /svg/compressed    	| The optimized versions of all SVG files.The compression rate is ~40%.	|
-| /svg/original      	| The original, uncompressed version of all SVG files.                          |
-| /LICENSE.txt       	| The terms and conditions of the license.                                      |
-| /README.md         	| The description of this repository.                                           |
-
-## How to use it?
-
-Install the icons with a package manager.
+Install the icons from npm
 
     npm i --save-dev @handsontable/spreadsheet-icons
-
-or
-
-    yarn add --dev @handsontable/spreadsheet-icons
 
 #### Use SVG as an `<img>` element
 
@@ -45,9 +30,9 @@ or
 The documentation of the icon set is available on
 [Handsontable docs](https://handsontable.com/docs/demo-spreadsheet-icons.html).
 
-## License
+## Licensing
 
-This icon set is a part of Handsontable Pro that is a commercial software distributed by Handsoncode sp. z o. o.
+This Spreadsheet icon set is a part of Handsontable Pro that is a commercial software distributed by Handsoncode sp. z o. o.
 By installing, copying, or otherwise using this icon set, you agree to be bound by the terms
 of its General Software License Terms ("Terms") available in the main directory
 of the Handsontable Pro software repository.
