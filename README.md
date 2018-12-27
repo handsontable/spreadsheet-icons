@@ -1,12 +1,11 @@
-# Spreadsheet Icons
+# About icons
 
-An official set of icons for
-[**Handsontable Pro**](https://github.com/handsontable/handsontable-pro)
-(a commercial license is required). It contains 169 beautiful, hand-crafted
-icons, perfectly suited for every spreadsheet-like UI. All
-icons are designed from scratch on 24px viewport.
+**Spreadsheet icons** are designed to accompany data grids, spreadsheets and other dynamic data views. They are clean, consistent and lightweight. You can use them to create toolbars, menu bars and context menus. They look great on any scale and screen resolution.
 
-<img src="https://raw.githubusercontent.com/handsontable/spreadsheet-icons/master/icons-preview.png?token=AHrPji-AgUYfyIjXrV_7jbQjn0jIn4q6ks5cF74GwA%3D%3D" alt="Spreadsheet icons preview">
+- It contains 160+ SVG icons. 
+- Recommended size is 24px or scaled accordingly - 18, 24 or 36px.
+- Recommended color on light background is black at 75% opacity - rgba(0, 0, 0, 0.75). For disabled icon style reduce the opacity to 35%.
+- Recommended color on dark background is white at 80% opacity - rgba(255, 255, 255, 0.8). For disabled icon style reduce the opacity to 30%.
 
 ## What's inside?
 
@@ -16,7 +15,6 @@ This repository contains the following folders and files:
 |--------------------	|------------------------------------------------------------------------------	|
 | /svg/compressed    	| The optimized versions of all SVG files.The compression rate is ~40%.	|
 | /svg/original      	| The original, uncompressed version of all SVG files.                          |
-| /icons-preview.png 	| The illustration of some icons in the README.md file.                         |
 | /LICENSE.txt       	| The terms and conditions of the license.                                      |
 | /README.md         	| The description of this repository.                                           |
 
@@ -33,29 +31,24 @@ or
 #### Use SVG as an `<img>` element
 
 ```
-<img src="add-comment.svg" alt="Add comment">
+<img src="/path/exclamation-mark.svg" alt="Exclamation mark">
 ```
 
 #### Use SVG inline with HTML
 
 ```
-<!-- Paste here an SVG code -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.42,9.7l-.65,5.18H11.23L10.58,9.7V5.25h2.84Zm0,9.05H10.58V15.92h2.84Z"/></svg>
 ```
-
-#### Use as a web font
-
-There is no web font available out of the box, but you can do one
-yourself in minutes with [Fontello](http://fontello.com/).
 
 ## Documentation
 
-The complete documentation of the icon set is available in
-the [Handsontable docs](https://handsontable.com/docs/spreadsheet-icons.html).
+The documentation of the icon set is available on
+[Handsontable docs](https://handsontable.com/docs/demo-spreadsheet-icons.html).
 
 ## License
 
-This icon is a part of Handsontable Pro that is a commercial software distributed by Handsoncode sp. z o. o.
-By installing, copying, or otherwise using this icon, you agree to be bound by the terms
+This icon set is a part of Handsontable Pro that is a commercial software distributed by Handsoncode sp. z o. o.
+By installing, copying, or otherwise using this icon set, you agree to be bound by the terms
 of its General Software License Terms ("Terms") available in the main directory
 of the Handsontable Pro software repository.
 
