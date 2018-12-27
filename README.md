@@ -4,8 +4,8 @@
 
 - It contains 160+ SVG icons. 
 - Recommended size is 24px or scaled accordingly - 18, 24 or 36px.
-- Recommended color on light background is black at 75% opacity - rgba(0, 0, 0, 0.75). For disabled icon style reduce the opacity to 35%.
-- Recommended color on dark background is white at 80% opacity - rgba(255, 255, 255, 0.8). For disabled icon style reduce the opacity to 30%.
+- Recommended color on light background is black at 75% opacity - `rgba(0, 0, 0, 0.75)`. For disabled icon style reduce the opacity to 35%.
+- Recommended color on dark background is white at 80% opacity - `rgba(255, 255, 255, 0.8)`. For disabled icon style reduce the opacity to 30%.
 
 ## What's inside?
 
