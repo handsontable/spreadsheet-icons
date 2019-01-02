@@ -1,6 +1,6 @@
-# Spreadsheet icons
+# Spreadsheet Icons
 
-**This icon set** is designed to accompany data grids, spreadsheets and other dynamic data views - icons are clean, consistent and lightweight. You can use them to create toolbars, menu bars and context menus. They look great on any scale and screen resolution.
+**This icon set** is designed to accompany data grids, spreadsheets and other dynamic data views - icons are clean, consistent and lightweight. You can use them to create toolbars, menu bars and context menus. They look great at any scale and screen resolution.
 
 - It contains 160+ SVG icons. 
 - Recommended size is 24px or scaled accordingly - 18, 24 or 36px.
@@ -32,8 +32,8 @@ The documentation of the icon set is available on
 
 ## Licensing
 
-This Spreadsheet icon set is a part of Handsontable Pro that is a commercial software distributed by Handsoncode sp. z o. o.
-By installing, copying, or otherwise using this icon set, you agree to be bound by the terms
+This "Spreadsheet Icons" is a part of Handsontable Pro that is a commercial software distributed by Handsoncode sp. z o. o.
+By installing, copying, or otherwise using this project, you agree to be bound by the terms
 of its General Software License Terms ("Terms") available in the main directory
 of the Handsontable Pro software repository.
 
