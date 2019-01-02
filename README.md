@@ -1,8 +1,8 @@
 # Spreadsheet Icons
 
-Spreadsheet Icons are designed to accompany data grids, spreadsheets and other dynamic data views - icons are clean, consistent and lightweight. You can use them to create toolbars, menu bars and context menus. They look great at any scale and screen resolution.
+Spreadsheet Icons are designed to accompany data grids, spreadsheets and other dynamic data views. All icons are clean, consistent and lightweight. You can use them to create toolbars, menu bars and context menus. They look great at any scale and screen resolution.
 
-- It contains 160+ SVG icons. 
+- 160+ SVG icons. 
 - Recommended size is 24px or scaled accordingly - 18, 24 or 36px.
 - Recommended color on light background is black at 75% opacity - `rgba(0, 0, 0, 0.75)`. For disabled icon style reduce the opacity to 35%.
 - Recommended color on dark background is white at 80% opacity - `rgba(255, 255, 255, 0.8)`. For disabled icon style reduce the opacity to 30%.
@@ -27,7 +27,7 @@ Install the icons from npm
 
 ## Documentation
 
-The documentation of the icon set is available on
+The documentation is available on
 [Handsontable docs](https://handsontable.com/docs/demo-spreadsheet-icons.html).
 
 ## Licensing
