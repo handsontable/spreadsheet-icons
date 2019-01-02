@@ -1,6 +1,6 @@
 # Spreadsheet Icons
 
-**This icon set** is designed to accompany data grids, spreadsheets and other dynamic data views - icons are clean, consistent and lightweight. You can use them to create toolbars, menu bars and context menus. They look great at any scale and screen resolution.
+Spreadsheet Icons are designed to accompany data grids, spreadsheets and other dynamic data views - icons are clean, consistent and lightweight. You can use them to create toolbars, menu bars and context menus. They look great at any scale and screen resolution.
 
 - It contains 160+ SVG icons. 
 - Recommended size is 24px or scaled accordingly - 18, 24 or 36px.
