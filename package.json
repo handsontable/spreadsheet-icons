@@ -1,0 +1,28 @@
+{
+  "name": "@handsontable/spreadsheet-icons",
+  "description": "Spreadsheet icons - a minimalistic icon set for data views (data grids, spreadsheets and tables)",
+  "homepage": "https://handsontable.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/handsontable/spreadsheet-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/handsontable/spreadsheet-icons/issues"
+  },
+  "author": "Handsoncode <hello@handsontable.com>",
+  "version": "1.0.0",
+  "keywords": [
+    "data",
+    "grid",
+    "table",
+    "data-grid",
+    "data-table",
+    "data-spreadsheet",
+    "spreadsheet",
+    "excel",
+    "icon",
+    "icons"
+  ],
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "script": "npm publish --access public"
+}
