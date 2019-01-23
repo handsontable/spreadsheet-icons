@@ -24,5 +24,7 @@
     "icons"
   ],
   "license": "SEE LICENSE IN LICENSE.txt",
-  "script": "npm publish --access public"
+  "scripts": {
+    "publish": "npm publish --access public"
+  }
 }
