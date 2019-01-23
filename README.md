@@ -7,7 +7,6 @@ Spreadsheet Icons are designed to accompany data grids, spreadsheets and other d
 - Recommended color on light background is black at 75% opacity - `rgba(0, 0, 0, 0.75)`. For disabled icon style reduce the opacity to 35%
 - Recommended color on dark background is white at 80% opacity - `rgba(255, 255, 255, 0.8)`. For disabled icon style reduce the opacity to 30%
 
-
 ## Getting started
 
 Install the icons from npm
