@@ -32,9 +32,6 @@ The documentation is available on
 
 ## Licensing
 
-This "Spreadsheet Icons" is a part of Handsontable Pro that is a commercial software distributed by Handsoncode sp. z o. o.
-By installing, copying, or otherwise using this project, you agree to be bound by the terms
-of its General Software License Terms ("Terms") available in the main directory
-of the Handsontable Pro software repository.
+This project is a part of Handsontable software. You can either use a free license for all your non-commercial projects or purchase a commercial license.
 
 Copyright (c) Handsoncode sp. z o.o.
