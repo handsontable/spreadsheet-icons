@@ -11,18 +11,22 @@ Spreadsheet Icons are designed to accompany data grids, spreadsheets and other d
 
 Install the icons from npm
 
-    npm i --save-dev @handsontable/spreadsheet-icons
+```bash
+npm install @handsontable/spreadsheet-icons
+```
 
 #### Use SVG as an `<img>` element
 
-```
+```html
 <img src="/path/exclamation-mark.svg" alt="Exclamation mark">
 ```
 
 #### Use SVG inline with HTML
 
-```
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.42,9.7l-.65,5.18H11.23L10.58,9.7V5.25h2.84Zm0,9.05H10.58V15.92h2.84Z"/></svg>
+```xml
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path d="M13.42,9.7l-.65,5.18H11.23L10.58,9.7V5.25h2.84Zm0,9.05H10.58V15.92h2.84Z"/>
+</svg>
 ```
 
 ## Documentation
@@ -32,9 +36,6 @@ The documentation is available on
 
 ## Licensing
 
-This "Spreadsheet Icons" is a part of Handsontable Pro that is a commercial software distributed by Handsoncode sp. z o. o.
-By installing, copying, or otherwise using this project, you agree to be bound by the terms
-of its General Software License Terms ("Terms") available in the main directory
-of the Handsontable Pro software repository.
+This project is a part of Handsontable software. You can either use a free license for all your non-commercial projects or purchase a commercial license.
 
 Copyright (c) Handsoncode sp. z o.o.
