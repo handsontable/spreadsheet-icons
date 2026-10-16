@@ -1,3 +1,16 @@
+<div align="center">
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/handsontable-logo-black.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/handsontable-logo-white.svg"/>
+    <img width="360" alt="Logo of Handsontable DataGrid" src="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/handsontable-logo-black.svg"/>
+  </picture>
+  <br><br>
+  <h3>Spreadsheet Icons: 160+ SVG icons for data grids, spreadsheets, and other data views.</h3>
+
+  <a href="https://handsontable.com">Website</a> &nbsp;&nbsp;—&nbsp;&nbsp; <a href="https://handsontable.com/docs/demo-spreadsheet-icons.html">Demo</a> &nbsp;&nbsp;—&nbsp;&nbsp; <a href="https://forum.handsontable.com/">Community</a>
+</div>
+
 # Spreadsheet Icons
 
 Spreadsheet Icons are designed to accompany data grids, spreadsheets and other dynamic data views. All icons are clean, consistent and lightweight. You can use them to create toolbars, menu bars and context menus. They look great at any scale and screen resolution.
@@ -32,7 +45,7 @@ npm install @handsontable/spreadsheet-icons
 ## Documentation
 
 The documentation is available on
-[Handsontable docs](https://handsontable.com/docs/demo-spreadsheet-icons.html).
+[Handsontable DataGrid docs](https://handsontable.com/docs/demo-spreadsheet-icons.html).
 
 ## Licensing
 
